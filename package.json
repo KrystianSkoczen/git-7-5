@@ -1,0 +1,27 @@
+{
+  "name": "7-5",
+  "version": "1.0.0",
+  "description": "https://krystianskoczen.github.io/git-7-5/",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.24.5"
+  },
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "nu-html-checker": "^0.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrystianSkoczen/git-7-5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrystianSkoczen/git-7-5/issues"
+  },
+  "homepage": "https://github.com/KrystianSkoczen/git-7-5#readme"
+}
